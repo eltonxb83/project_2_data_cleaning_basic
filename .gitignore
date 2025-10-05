@@ -1,0 +1,11 @@
+#python cache
+__pycache__/
+
+#environment folders
+env/
+venv/
+.venv/
+
+#OS files
+.DS_Store
+Thumbs.db

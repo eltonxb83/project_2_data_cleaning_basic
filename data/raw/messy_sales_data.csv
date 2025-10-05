@@ -1,0 +1,106 @@
+ Order ID ,Date, region ,Rep ,item, Units,unit cost ,Total 
+1,2025-06-20,East,Martha Mcdaniel,Pencil,52,1.99,103.48
+2,2025-07-18,West,Jimmy Hayes,Notebook,93,3.49,324.57
+3,2025-05-07,,Kim Kelly,Pencil,15,1.99,29.85
+4,2025-02-04,East,Linda Allen,Binder,72,19.99,1439.28
+5,2024-10-25,South,Michelle Gonzales,Binder,61,19.99,1219.39
+6,2025-01-24,North,Michael Thompson,Binder,21,19.99,419.79
+7,2025-04-30,East,Kevin Davis,Ruler,83,0.99,82.17
+8,2025-05-30,Central,Taylor Blevins,Pen,87,2.99,260.13
+9,2025-06-22,Central,Juan Murphy,Pencil,75,1.99,149.25
+10,2025-03-30,,Kimberly Khan,Desk,75,125.0,9375.0
+11,2025-07-04,North,Meredith Braun,Desk,88,125.0,11000.0
+12,2024-09-11,East,Marissa Melendez,Desk,24,125.0,3000.0
+13,2024-12-04,Central,Lorraine Gordon,Desk,3,125.0,375.0
+14,2025-07-04,West,George Mitchell,Ruler,22,0.99,21.78
+15,2024-10-07,West,Katherine Cruz,Ruler,53,0.99,52.47
+16,2025-03-26,Central,Brian Shea,Binder,2,19.99,39.98
+17,2025-01-24,Central,Joel Price,Notebook,88,3.49,307.12
+18,2024-10-28,South,Rhonda Brennan,Notebook,30,3.49,104.7
+19,2024-11-30,West,David Ferguson MD,Pen Set,38,15.99,607.62
+20,2025-03-26,South,William Harris,Binder,2,19.99,39.98
+21,2025-02-18,East,Eddie Hodges,Binder,64,19.99,1279.36
+22,2024-11-21,North,Debbie Long,Pen,60,2.99,179.4
+23,2024-12-16,South,Tracey Hill,Notebook,21,3.49,73.29
+24,2025-04-27,North,Kimberly Martinez,Notebook,33,3.49,115.17
+25,2025-06-13,West,Rebecca Monroe,Notebook,76,3.49,265.24
+26,2025-03-04,South,Andrew Bailey,Pen Set,58,15.99,927.42
+27,2025-01-13,West,Martha Patrick,Binder,22,19.99,439.78
+28,2024-09-04,East,Anthony Hall,Ruler,89,0.99,88.11
+29,2025-06-01,North,Todd Morgan,Desk,49,125.0,6125.0
+30,2024-10-24,North,Matthew Cochran,Desk,91,125.0,11375.0
+31,2025-03-11,East,Edward Lane,Notebook,59,3.49,205.91
+32,2024-09-08,South,Logan Gillespie,Ruler,42,0.99,41.58
+33,2024-10-24,East,William Newton,Pen,92,2.99,275.08
+34,2025-07-12,Central,Sabrina Riley,Desk,60,125.0,7500.0
+35,2025-03-15,East,Thomas Wright,Ruler,80,0.99,79.2
+36,2024-12-19,South,Brett Rogers,Desk,15,125.0,1875.0
+37,2025-01-01,West,Rachel Bell,Desk,62,125.0,7750.0
+38,2025-03-29,,Brenda Nixon,Desk,62,125.0,7750.0
+39,2025-01-04,Central,Phillip Williams,Ruler,47,0.99,46.53
+40,2024-11-20,West,Nicole Briggs,Desk,62,125.0,7750.0
+41,2024-11-13,North,Mitchell Weeks,Ruler,51,0.99,50.49
+42,2025-02-08,West,Christopher Powell,Binder,55,19.99,1099.45
+43,2025-06-21,West,Carolyn Martin,Pen,64,2.99,191.36
+44,2024-08-01,West,Trevor White,Desk,3,125.0,375.0
+45,2025-04-19,Central,Dorothy Gonzales,Pen Set,51,15.99,815.49
+46,2025-03-06,North,Ann Johnson,Desk,7,125.0,875.0
+47,2024-10-05,East,,Pen,21,2.99,62.79
+48,2025-04-07,South,,Binder,73,19.99,1459.27
+49,2024-12-12,,Wanda Lee,Binder,39,19.99,779.61
+50,2025-07-06,Central,Sophia Bennett,Pencil,18,1.99,35.82
+51,2025-06-20,North,Zachary Johnson,Binder,4,19.99,79.96
+52,2025-05-31,South,Jennifer Carter,Desk,89,125.0,11125.0
+53,2025-03-12,North,Danny Watts,Binder,60,19.99,1199.4
+54,2025-05-09,Central,Brian Schroeder,Pen Set,14,15.99,223.86
+55,2024-10-26,East,Breanna Bailey,Notebook,9,3.49,31.41
+56,2025-03-09,East,Melinda Ayala,Pen Set,90,15.99,1439.1
+57,2024-11-07,East,Russell Murphy,Binder,53,19.99,1059.47
+58,2025-03-13,West,Ashley Melendez,Pen Set,2,15.99,31.98
+59,2025-04-07,East,Chris Lucas,Pen Set,84,15.99,1343.16
+60,2025-07-23,East,Marissa Palmer,Pencil,92,1.99,183.08
+61,2024-07-30,East,Kevin Pearson,Pencil,60,1.99,119.4
+62,2024-09-29,West,David Cooper,Pen Set,71,15.99,1135.29
+63,2025-06-22,,Larry Bender,Pencil,44,1.99,87.56
+64,2024-12-27,North,Debra Peterson,Pen,8,2.99,23.92
+65,2025-05-23,Central,Donna Singleton,Pen Set,47,15.99,751.53
+66,2024-08-27,South,Dwayne Myers,Notebook,35,3.49,122.15
+67,2025-07-16,Central,Olivia Stevens,Binder,78,19.99,1559.22
+68,2024-10-21,South,Michael Norton,Pencil,81,1.99,161.19
+69,2025-05-01,South,Julia Lopez,Pen Set,36,15.99,575.64
+70,2025-01-19,West,Sylvia Craig,Pencil,50,1.99,99.5
+71,2024-11-01,West,Amber Rodriguez,Pencil,4,1.99,7.96
+72,2024-08-13,West,Michelle Sharp,Pen Set,2,15.99,31.98
+73,2025-07-13,West,Parker Young,Desk,6,125.0,750.0
+74,2025-01-16,North,Devin Young,Notebook,54,3.49,188.46
+75,2025-02-10,Central,Jennifer Weber,Binder,4,19.99,79.96
+76,2024-09-15,Central,Dean Gutierrez,Pen Set,54,15.99,863.46
+77,2024-11-13,North,Andrew Johnson,Pen,93,2.99,278.07
+78,2025-07-22,East,Diane Kelly,Pen Set,63,15.99,1007.37
+79,2025-07-14,East,Michelle Brown,Pencil,18,1.99,35.82
+80,2024-10-07,West,Elizabeth Sanchez,Pen,90,2.99,269.1
+81,2024-07-31,Central,Mary Parker,Pen,44,2.99,131.56
+82,2024-07-28,Central,James Anderson,Desk,34,125.0,4250.0
+83,2025-05-06,South,Gabriel Robinson,Pencil,74,1.99,147.26
+84,2024-08-19,East,Alexander Jackson,Binder,62,19.99,1239.38
+85,2024-10-28,South,James Myers,Binder,14,19.99,279.86
+86,2025-02-19,Central,Anthony Moore,Binder,95,19.99,1899.05
+87,2025-05-02,South,Kevin Bird,Pen Set,48,15.99,767.52
+88,2025-06-29,East,Andrew Hammond,Pencil,15,1.99,29.85
+89,2025-03-26,East,Adam Sutton,Pencil,72,1.99,143.28
+90,2025-06-06,Central,Leslie Allison,Binder,78,19.99,1559.22
+91,2025-03-18,North,,Desk,87,125.0,10875.0
+92,2025-07-13,West,,Desk,62,125.0,7750.0
+93,2024-11-29,,Dustin Gillespie,Binder,40,19.99,799.6
+94,2025-04-22,,Roy Mays,Ruler,85,0.99,84.15
+95,2024-11-05,Central,Jennifer Osborne,Binder,80,19.99,1599.2
+96,2025-05-08,Central,Elizabeth Jones,Ruler,82,0.99,81.18
+97,2024-10-19,South,Angela Brown,Notebook,53,3.49,184.97
+98,2025-07-13,West,Sarah Peterson,Ruler,24,0.99,23.76
+99,2024-12-17,East,Dana Shaffer,Binder,26,19.99,519.74
+100,2025-02-06,North,Andrew Lee,Ruler,89,0.99,88.11
+81,2024-07-31,Central,Mary Parker,Pen,44,2.99,131.56
+85,2024-10-28,South,James Myers,Binder,14,19.99,279.86
+34,2025-07-12,Central,Sabrina Riley,Desk,60,125.0,7500.0
+82,2024-07-28,Central,James Anderson,Desk,34,125.0,4250.0
+94,2025-04-22,,Roy Mays,Ruler,85,0.99,84.15
