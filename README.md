@@ -6,12 +6,12 @@ This project is a continuation of guided practice exercise using similar simulat
 
 ###Methods used
 
--**Date & Time Handling**: `pd.to_datetime`
--**String Format Handling**: `.str.strip`, `str.lower`, `str.replace`
--**Missing Data Handling**: `fillna.`, `dropna`
--**Temporary anonymous function Expression**: `lambda`
--**Data Aggregation**: `.groupby`
--**Visualization**: simple charts with matplotlib
+- **Date & Time Handling**: `pd.to_datetime`
+- **String Format Handling**: `.str.strip`, `str.lower`, `str.replace`
+- **Missing Data Handling**: `fillna.`, `dropna`
+- **Temporary anonymous function Expression**: `lambda`
+- **Data Aggregation**: `.groupby`
+- **Visualization**: simple charts with matplotlib
 
 ##Environment Setup
 
